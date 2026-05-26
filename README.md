@@ -53,4 +53,15 @@ Plan yo:
 | Business | 11-99 | 2,500 HTG |
 | Enterprise | 100-999 | Sou demann |
 
+## Vèsyon prive
 
+Kenbe vèsyon sa yo prive:
+
+- `boutique-rapo-v2-FINAL-3-DEV.html`
+- `boutique-rapo-v2-FINAL-3-MASTER-DEV.html`
+- nenpòt fichye ki gen `generateLicenseFromAdmin`
+- nenpòt fichye ki gen `licenseSecret` prive ou vle pwoteje
+
+## Rekòmandasyon GitHub
+
+Pou GitHub Pages, mete `index.html` nan rasin repo a. Si repo a piblik, pa mete zouti devlopè yo ladan l.
